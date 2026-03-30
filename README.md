@@ -1,2 +1,2 @@
-# Algorithmchao
-算法练习
+# Exercisechao
+编程随记
